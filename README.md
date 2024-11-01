@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @donutgames113
-- 👀 I’m interested in game and web design
-- 🌱 I’m currently learning lua and c#
-- 💞️ I’m looking to collaborate on roblox games / web projects
-- 📫 How to reach me: Discord at @donutgames113
-- 😄 Pronouns: He/Him
+Hi, I’m Donut! I’m a game and web developer with a passion for creating on Roblox and a solid background in CSS, HTML, and JavaScript. I’m skilled in designing websites with styles ranging from claymorphic and glassmorphic to flat and anything in between.
